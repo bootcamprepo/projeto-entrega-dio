@@ -1,0 +1,27 @@
+Time to practice English.
+Why we need to learn english?
+Maybe because the old English Empire that ruled the world in past times, is an English speaking country (of course), and after 
+their fall ,  another English speaking country became superpower, it's one of the possibilities.
+Or the best one is, devs need to learn English, because if not, they will be unemployed in a near future. 
+
+Now some ASCII art to populate a little more this repo:
+   ___====-_  _-====___
+           _--^^^#####//      \\#####^^^--_
+        _-^##########// (    ) \\##########^-_
+       -############//  |\^^/|  \\############-
+     _/############//   (@::@)   \\############\_
+    /#############((     \\//     ))#############\
+   -###############\\    (oo)    //###############-
+  -#################\\  / VV \  //#################-
+ -###################\\/      \//###################-
+_#/|##########/\######(   /\   )######/\##########|\#_
+|/ |#/\#/\#/\/  \#/\##\  |  |  /##/\#/  \/\#/\#/\#| \|
+`  |/  V  V  `   V  \#\| |  | |/#/  V   '  V  V  \|  '
+   `   `  `      `   / | |  | | \   '      '  '   '
+                    (  | |  | |  )
+                   __\ | |  | | /__
+                  (vvv(VVV)(VVV)vvv)
+YOU FOUND THE PRIZE!!!!
+If you saw this text, please leave a message to me.
+
+Text wrote in Nano on POP OS 21.10
